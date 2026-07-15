@@ -1,4 +1,4 @@
-import { DiagramFrame, HDim, Leader, STEEL_FILL, STEEL_STROKE, VDim } from './shared'
+import { DiagramFrame, HDim, Leader, STEEL_FILL, STEEL_STROKE, VDim } from '@/components/diagrams/shared'
 
 export function PlateDiagram() {
   return (

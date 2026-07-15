@@ -1,4 +1,4 @@
-import { DiagramFrame, HDim, LengthArrow, STEEL_FILL, STEEL_STROKE, VDim } from './shared'
+import { DiagramFrame, HDim, LengthArrow, STEEL_FILL, STEEL_STROKE, VDim } from '@/components/diagrams/shared'
 
 export function FlatDiagram() {
   return (

@@ -1,4 +1,4 @@
-import { DiagramFrame, HDim, Leader, LengthArrow, STEEL_FILL, STEEL_STROKE } from './shared'
+import { DiagramFrame, HDim, Leader, LengthArrow, STEEL_FILL, STEEL_STROKE } from '@/components/diagrams/shared'
 
 export function RoundPipeDiagram() {
   return (

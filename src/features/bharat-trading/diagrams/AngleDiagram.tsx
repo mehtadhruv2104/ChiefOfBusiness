@@ -1,4 +1,4 @@
-import { DiagramFrame, HDim, Leader, LengthArrow, STEEL_FILL, STEEL_STROKE, VDim } from './shared'
+import { DiagramFrame, HDim, Leader, LengthArrow, STEEL_FILL, STEEL_STROKE, VDim } from '@/components/diagrams/shared'
 
 export function AngleDiagram() {
   const points = '50,110 50,50 64,50 64,96 110,96 110,110'

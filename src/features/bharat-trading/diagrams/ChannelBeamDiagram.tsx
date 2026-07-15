@@ -1,4 +1,4 @@
-import { DiagramFrame, HDim, LengthArrow, STEEL_FILL, STEEL_STROKE, VDim } from './shared'
+import { DiagramFrame, HDim, LengthArrow, STEEL_FILL, STEEL_STROKE, VDim } from '@/components/diagrams/shared'
 
 export function ChannelBeamDiagram() {
   const points = '50,30 120,30 120,42 64,42 64,108 120,108 120,120 50,120'
