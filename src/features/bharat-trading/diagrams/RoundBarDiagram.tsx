@@ -1,4 +1,4 @@
-import { DiagramFrame, HDim, LengthArrow, STEEL_FILL, STEEL_STROKE } from './shared'
+import { DiagramFrame, HDim, LengthArrow, STEEL_FILL, STEEL_STROKE } from '@/components/diagrams/shared'
 
 export function RoundBarDiagram() {
   return (

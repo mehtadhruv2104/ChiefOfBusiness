@@ -1,4 +1,4 @@
-import { DiagramFrame, STEEL_FILL, STEEL_STROKE } from './shared'
+import { DiagramFrame, STEEL_FILL, STEEL_STROKE } from '@/components/diagrams/shared'
 
 export function SheetManualDiagram() {
   const wave = 'M40,50 q10,-14 20,0 t20,0 t20,0 t20,0 t20,0 t20,0'
